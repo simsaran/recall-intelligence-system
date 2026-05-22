@@ -51,7 +51,7 @@ That is the difference between reactive quality management and proactive quality
 
 | File | What it does |
 |------|-------------|
-| app.py | The Streamlit app — five tabs covering trends, root cause analysis, risk scoring, statistical analysis, and early warning framework |
+| app.py | The Streamlit app; five tabs covering trends, root cause analysis, risk scoring, statistical analysis, and early warning framework |
 | recall-dataset.csv | 847 classified recall records with root cause, severity score, recall class, province, and description |
 | pareto-analysis.csv | Root cause Pareto table with cumulative percentages |
 | category-risk-scores.csv | Composite risk scores for all 12 product categories |
