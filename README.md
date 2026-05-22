@@ -1,5 +1,5 @@
 # recall-intelligence-system
-### A Pattern Analysis of Health Canada Recall Data — January 2023 to April 2026
+### A Pattern Analysis of Health Canada Recall Data January 2023 to April 2026
 
 ---
 
